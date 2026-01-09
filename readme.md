@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faril putra pratama</h1>
-<h3 align="center">Saya seorang Python Developer</h3>
+<h3 align="center">Code Learner | Python entuhiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariltau72&label=Profile%20views&color=0e75b6&style=flat" alt="fariltau72" /> </p>
 
