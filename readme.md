@@ -1,23 +1,68 @@
-<h1 align="center">Hi 👋, I'm Faril putra pratama</h1>
-<h3 align="center">Code Learner | Python entuhiast</h3>
+# Hi there, I'm Faril Putra Pratama! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fariltau72" alt="fariltau72" /></a> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Student%20%26%20SaaS%20Builder&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future,%20one%20line%20of%20code%20at%20a%20time&descAlignY=55&descAlign=50" />
+</div>
 
-- 🌱 I’m currently learning **At Idcamp 2025**
+<div align="center">
+  <h3>🚀 16 y/o Full-Stack Developer | AI-Augmented Coder | Student at SMK TARUNA BANGSA</h3>
+  <a href="https://github.com/USERNAME_LO">
+    <img src="https://img.shields.io/github/followers/USERNAME_LO?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://twitter.com/USERNAME_LO">
+    <img src="https://img.shields.io/twitter/follow/USERNAME_LO?label=Follow&style=social" alt="Twitter Follow" />
+  </a>
+</div>
 
-- 📫 How to reach me **my instagram @fr.project.id**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/faril putra pratama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faril putra pratama" height="30" width="40" /></a>
-<a href="https://instagram.com/fr.projectid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fr.project.id" height="30" width="40" /></a>
-</p>
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I'm a vocational student based in **Jakarta, Indonesia**, proving that age is just a number when it comes to shipping products. Currently balancing school exams with building a scalable **SaaS** product.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fariltau72&show_icons=true&locale=en&layout=compact" alt="fariltau72" /></p>
+* 🔭 **I’m currently building:** A SaaS platform using **Flask & Supabase** (Day 2 progress!).
+* 🌱 **I’m currently learning:** Mastering **AI Orchestration** to build 10x faster.
+* 💼 **Experience:** Started from freelance/joki projects, now pivoting to product development.
+* ⚡ **Fun fact:** I built my first MVP while preparing for school exams.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fariltau72&show_icons=true&locale=en" alt="fariltau72" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fariltau72&" alt="fariltau72" /></p>
+### 🛠️ Tech Stack & Tools
+
+I focus on **speed** and **efficiency**. My stack is chosen to ship fast and scale later.
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) |
+| **Database & Auth** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
+| **AI Tools** | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white) |
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Faril's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_LO&theme=tokyonight&hide_border=true" alt="Faril's Streak" />
+</div>
+
+---
+
+### 🚀 My Philosophy
+> *"Tech stack doesn't matter if you don't ship. I use tools that let me solve problems fast. Whether it's **HTML/CSS** or **AI-generated logic**, the goal is always the same: **Deliver Value**."*
+
+---
+
+<div align="center">
+  <p>Let's connect and build something awesome!</p>
+  <p>
+    <a href="mailto:EMAIL_LO@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/USERNAME_LO">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
